@@ -1,0 +1,19 @@
+.base {
+    background-color: lightcoral;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#row2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.small {
+    font-size: 24px;
+}
+
+#row4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
